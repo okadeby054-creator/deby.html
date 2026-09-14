@@ -1,2 +1,0 @@
-# deby.html
-html projects 
